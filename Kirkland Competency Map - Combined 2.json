@@ -1,0 +1,1706 @@
+{
+  "1": {
+    "id": 1,
+    "level": "Assistant",
+    "bundle": 1,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "2": {
+    "id": 2,
+    "level": "Assistant",
+    "bundle": 1,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Living Our Values: Project Management I and II"
+  },
+  "3": {
+    "id": 3,
+    "level": "Assistant",
+    "bundle": 1,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "4": {
+    "id": 4,
+    "level": "Assistant",
+    "bundle": 1,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Living Our Values: Communication Skills (Speaking, Writing, Listening, Presenting) by Practice Area"
+  },
+  "5": {
+    "id": 5,
+    "level": "Assistant",
+    "bundle": 1,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "6": {
+    "id": 6,
+    "level": "Assistant",
+    "bundle": 1,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Living Our Values"
+  },
+  "7": {
+    "id": 7,
+    "level": "Assistant",
+    "bundle": 2,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Legal Primer?"
+  },
+  "8": {
+    "id": 8,
+    "level": "Assistant",
+    "bundle": 2,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Legal Primer?"
+  },
+  "9": {
+    "id": 9,
+    "level": "Assistant",
+    "bundle": 2,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Legal Primer?"
+  },
+  "10": {
+    "id": 10,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "11": {
+    "id": 11,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "Living Our Values: Project Management I and II"
+  },
+  "12": {
+    "id": 12,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": ""
+  },
+  "13": {
+    "id": 13,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "14": {
+    "id": 14,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Living Our Values: Communication Skills (Speaking, Writing, Listening, Presenting) by Practice Area"
+  },
+  "15": {
+    "id": 15,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": ""
+  },
+  "16": {
+    "id": 16,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "17": {
+    "id": 17,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "Living Our Values"
+  },
+  "18": {
+    "id": 18,
+    "level": "Assistant",
+    "bundle": 3,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "19": {
+    "id": 19,
+    "level": "Assistant",
+    "bundle": 4,
+    "competency": "Manages Outcomes",
+    "year": 2019,
+    "course": ""
+  },
+  "20": {
+    "id": 20,
+    "level": "Assistant",
+    "bundle": 4,
+    "competency": "Manages Outcomes",
+    "year": 2019,
+    "course": ""
+  },
+  "21": {
+    "id": 21,
+    "level": "Assistant",
+    "bundle": 4,
+    "competency": "Manages Outcomes",
+    "year": 2020,
+    "course": ""
+  },
+  "22": {
+    "id": 22,
+    "level": "Assistant",
+    "bundle": 4,
+    "competency": "Manages Outcomes",
+    "year": 2020,
+    "course": ""
+  },
+  "23": {
+    "id": 23,
+    "level": "Assistant",
+    "bundle": 4,
+    "competency": "Manages Outcomes",
+    "year": 2021,
+    "course": ""
+  },
+  "24": {
+    "id": 24,
+    "level": "Assistant",
+    "bundle": 4,
+    "competency": "Manages Outcomes",
+    "year": 2021,
+    "course": ""
+  },
+  "25": {
+    "id": 25,
+    "level": "Assistant",
+    "bundle": 5,
+    "competency": "Customer Focus",
+    "year": 2019,
+    "course": ""
+  },
+  "26": {
+    "id": 26,
+    "level": "Assistant",
+    "bundle": 5,
+    "competency": "Customer Focus",
+    "year": 2019,
+    "course": ""
+  },
+  "27": {
+    "id": 27,
+    "level": "Assistant",
+    "bundle": 5,
+    "competency": "Customer Focus",
+    "year": 2020,
+    "course": ""
+  },
+  "28": {
+    "id": 28,
+    "level": "Assistant",
+    "bundle": 5,
+    "competency": "Customer Focus",
+    "year": 2020,
+    "course": ""
+  },
+  "29": {
+    "id": 29,
+    "level": "Assistant",
+    "bundle": 5,
+    "competency": "Customer Focus",
+    "year": 2021,
+    "course": ""
+  },
+  "30": {
+    "id": 30,
+    "level": "Assistant",
+    "bundle": 5,
+    "competency": "Customer Focus",
+    "year": 2021,
+    "course": ""
+  },
+  "31": {
+    "id": 31,
+    "level": "Assistant",
+    "bundle": 6,
+    "competency": "Initiative",
+    "year": 2019,
+    "course": ""
+  },
+  "32": {
+    "id": 32,
+    "level": "Assistant",
+    "bundle": 6,
+    "competency": "Initiative",
+    "year": 2019,
+    "course": ""
+  },
+  "33": {
+    "id": 33,
+    "level": "Assistant",
+    "bundle": 6,
+    "competency": "Initiative",
+    "year": 2020,
+    "course": ""
+  },
+  "34": {
+    "id": 34,
+    "level": "Assistant",
+    "bundle": 6,
+    "competency": "Initiative",
+    "year": 2020,
+    "course": ""
+  },
+  "35": {
+    "id": 35,
+    "level": "Assistant",
+    "bundle": 6,
+    "competency": "Initiative",
+    "year": 2021,
+    "course": ""
+  },
+  "36": {
+    "id": 36,
+    "level": "Assistant",
+    "bundle": 6,
+    "competency": "Initiative",
+    "year": 2021,
+    "course": ""
+  },
+  "37": {
+    "id": 37,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2019,
+    "course": "Living Our Values: Project Management I and II"
+  },
+  "38": {
+    "id": 38,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2019,
+    "course": "Living Our Values: Project Management I and II"
+  },
+  "39": {
+    "id": 39,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2019,
+    "course": "Living Our Values: Project Management I and II"
+  },
+  "40": {
+    "id": 40,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2020,
+    "course": ""
+  },
+  "41": {
+    "id": 41,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2020,
+    "course": ""
+  },
+  "42": {
+    "id": 42,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2020,
+    "course": ""
+  },
+  "43": {
+    "id": 43,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "44": {
+    "id": 44,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "45": {
+    "id": 45,
+    "level": "Assistant",
+    "bundle": 7,
+    "competency": "Business Insight",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "46": {
+    "id": 46,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "47": {
+    "id": 47,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Living Our Values: Project Management I and II"
+  },
+  "48": {
+    "id": 48,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Better Business Writing?"
+  },
+  "49": {
+    "id": 49,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "50": {
+    "id": 50,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Living Our Values: Communication Skills (Speaking, Writing, Listening, Presenting) by Practice Area"
+  },
+  "51": {
+    "id": 51,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Better Business Writing?"
+  },
+  "52": {
+    "id": 52,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "53": {
+    "id": 53,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Living Our Values"
+  },
+  "54": {
+    "id": 54,
+    "level": "Coordinator/Specialist",
+    "bundle": 8,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Better Business Writing?"
+  },
+  "55": {
+    "id": 55,
+    "level": "Coordinator/Specialist",
+    "bundle": 9,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Legal Primer?"
+  },
+  "56": {
+    "id": 56,
+    "level": "Coordinator/Specialist",
+    "bundle": 9,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Legal Primer?"
+  },
+  "57": {
+    "id": 57,
+    "level": "Coordinator/Specialist",
+    "bundle": 9,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Legal Primer?"
+  },
+  "58": {
+    "id": 58,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "59": {
+    "id": 59,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "Living Our Values: Project Management I and II"
+  },
+  "60": {
+    "id": 60,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": ""
+  },
+  "61": {
+    "id": 61,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "62": {
+    "id": 62,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Living Our Values: Communication Skills (Speaking, Writing, Listening, Presenting) by Practice Area"
+  },
+  "63": {
+    "id": 63,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": ""
+  },
+  "64": {
+    "id": 64,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "65": {
+    "id": 65,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "Living Our Values"
+  },
+  "66": {
+    "id": 66,
+    "level": "Coordinator/Specialist",
+    "bundle": 10,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "67": {
+    "id": 67,
+    "level": "Coordinator/Specialist",
+    "bundle": 11,
+    "competency": "Manages Outcomes",
+    "year": 2019,
+    "course": "Emotional Intelligence?"
+  },
+  "68": {
+    "id": 68,
+    "level": "Coordinator/Specialist",
+    "bundle": 11,
+    "competency": "Manages Outcomes",
+    "year": 2020,
+    "course": "Emotional Intelligence?"
+  },
+  "69": {
+    "id": 69,
+    "level": "Coordinator/Specialist",
+    "bundle": 11,
+    "competency": "Manages Outcomes",
+    "year": 2021,
+    "course": "Emotional Intelligence?"
+  },
+  "70": {
+    "id": 70,
+    "level": "Coordinator/Specialist",
+    "bundle": 12,
+    "competency": "Customer Focus",
+    "year": 2019,
+    "course": ""
+  },
+  "71": {
+    "id": 71,
+    "level": "Coordinator/Specialist",
+    "bundle": 12,
+    "competency": "Customer Focus",
+    "year": 2020,
+    "course": ""
+  },
+  "72": {
+    "id": 72,
+    "level": "Coordinator/Specialist",
+    "bundle": 12,
+    "competency": "Customer Focus",
+    "year": 2021,
+    "course": ""
+  },
+  "73": {
+    "id": 73,
+    "level": "Coordinator/Specialist",
+    "bundle": 13,
+    "competency": "Initiative",
+    "year": 2019,
+    "course": ""
+  },
+  "74": {
+    "id": 74,
+    "level": "Coordinator/Specialist",
+    "bundle": 13,
+    "competency": "Initiative",
+    "year": 2020,
+    "course": ""
+  },
+  "75": {
+    "id": 75,
+    "level": "Coordinator/Specialist",
+    "bundle": 13,
+    "competency": "Initiative",
+    "year": 2021,
+    "course": ""
+  },
+  "76": {
+    "id": 76,
+    "level": "Coordinator/Specialist",
+    "bundle": 14,
+    "competency": "Business Insight",
+    "year": 2019,
+    "course": "Living Our Values: Project Management I and II"
+  },
+  "77": {
+    "id": 77,
+    "level": "Coordinator/Specialist",
+    "bundle": 14,
+    "competency": "Business Insight",
+    "year": 2020,
+    "course": ""
+  },
+  "78": {
+    "id": 78,
+    "level": "Coordinator/Specialist",
+    "bundle": 14,
+    "competency": "Business Insight",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "79": {
+    "id": 79,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "80": {
+    "id": 80,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Better Business Writing?"
+  },
+  "81": {
+    "id": 81,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "82": {
+    "id": 82,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2019,
+    "course": ""
+  },
+  "83": {
+    "id": 83,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "84": {
+    "id": 84,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Better Business Writing?"
+  },
+  "85": {
+    "id": 85,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "86": {
+    "id": 86,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Mentoring Program"
+  },
+  "87": {
+    "id": 87,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "88": {
+    "id": 88,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Better Business Writing?"
+  },
+  "89": {
+    "id": 89,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "90": {
+    "id": 90,
+    "level": "Supervisor/Manager",
+    "bundle": 15,
+    "competency": "Communication",
+    "year": 2021,
+    "course": ""
+  },
+  "91": {
+    "id": 91,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Legal Primer?"
+  },
+  "92": {
+    "id": 92,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "93": {
+    "id": 93,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Hiring for Success"
+  },
+  "94": {
+    "id": 94,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Legal Primer?"
+  },
+  "95": {
+    "id": 95,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "96": {
+    "id": 96,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Hiring for Success"
+  },
+  "97": {
+    "id": 97,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Legal Primer?"
+  },
+  "98": {
+    "id": 98,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "99": {
+    "id": 99,
+    "level": "Supervisor/Manager",
+    "bundle": 16,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Hiring for Success"
+  },
+  "100": {
+    "id": 100,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "101": {
+    "id": 101,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "102": {
+    "id": 102,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "Competency Coaching"
+  },
+  "103": {
+    "id": 103,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": ""
+  },
+  "104": {
+    "id": 104,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "105": {
+    "id": 105,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "106": {
+    "id": 106,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Mentoring Program"
+  },
+  "107": {
+    "id": 107,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Competency Coaching"
+  },
+  "108": {
+    "id": 108,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "109": {
+    "id": 109,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "110": {
+    "id": 110,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "111": {
+    "id": 111,
+    "level": "Supervisor/Manager",
+    "bundle": 17,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "Competency Coaching"
+  },
+  "112": {
+    "id": 112,
+    "level": "Supervisor/Manager",
+    "bundle": 18,
+    "competency": "Manages Outcomes",
+    "year": 2019,
+    "course": "Emotional Intelligence?"
+  },
+  "113": {
+    "id": 113,
+    "level": "Supervisor/Manager",
+    "bundle": 18,
+    "competency": "Manages Outcomes",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "114": {
+    "id": 114,
+    "level": "Supervisor/Manager",
+    "bundle": 18,
+    "competency": "Manages Outcomes",
+    "year": 2020,
+    "course": "Emotional Intelligence?"
+  },
+  "115": {
+    "id": 115,
+    "level": "Supervisor/Manager",
+    "bundle": 18,
+    "competency": "Manages Outcomes",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "116": {
+    "id": 116,
+    "level": "Supervisor/Manager",
+    "bundle": 18,
+    "competency": "Manages Outcomes",
+    "year": 2021,
+    "course": "Emotional Intelligence?"
+  },
+  "117": {
+    "id": 117,
+    "level": "Supervisor/Manager",
+    "bundle": 18,
+    "competency": "Manages Outcomes",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "118": {
+    "id": 118,
+    "level": "Supervisor/Manager",
+    "bundle": 19,
+    "competency": "Customer Focus",
+    "year": 2019,
+    "course": "Business Insights?"
+  },
+  "119": {
+    "id": 119,
+    "level": "Supervisor/Manager",
+    "bundle": 19,
+    "competency": "Customer Focus",
+    "year": 2019,
+    "course": ""
+  },
+  "120": {
+    "id": 120,
+    "level": "Supervisor/Manager",
+    "bundle": 19,
+    "competency": "Customer Focus",
+    "year": 2020,
+    "course": "Business Insights?"
+  },
+  "121": {
+    "id": 121,
+    "level": "Supervisor/Manager",
+    "bundle": 19,
+    "competency": "Customer Focus",
+    "year": 2020,
+    "course": ""
+  },
+  "122": {
+    "id": 122,
+    "level": "Supervisor/Manager",
+    "bundle": 19,
+    "competency": "Customer Focus",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "123": {
+    "id": 123,
+    "level": "Supervisor/Manager",
+    "bundle": 19,
+    "competency": "Customer Focus",
+    "year": 2021,
+    "course": "Business Insights?"
+  },
+  "124": {
+    "id": 124,
+    "level": "Supervisor/Manager",
+    "bundle": 20,
+    "competency": "Initiative",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "125": {
+    "id": 125,
+    "level": "Supervisor/Manager",
+    "bundle": 20,
+    "competency": "Initiative",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "126": {
+    "id": 126,
+    "level": "Supervisor/Manager",
+    "bundle": 20,
+    "competency": "Initiative",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "127": {
+    "id": 127,
+    "level": "Supervisor/Manager",
+    "bundle": 21,
+    "competency": "Business Insight",
+    "year": 2019,
+    "course": "Business Insights?"
+  },
+  "128": {
+    "id": 128,
+    "level": "Supervisor/Manager",
+    "bundle": 21,
+    "competency": "Business Insight",
+    "year": 2020,
+    "course": "Business Insights?"
+  },
+  "129": {
+    "id": 129,
+    "level": "Supervisor/Manager",
+    "bundle": 21,
+    "competency": "Business Insight",
+    "year": 2021,
+    "course": "STAR Program\nBusiness Insights?"
+  },
+  "130": {
+    "id": 130,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "131": {
+    "id": 131,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Better Business Writing?"
+  },
+  "132": {
+    "id": 132,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "133": {
+    "id": 133,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2019,
+    "course": ""
+  },
+  "134": {
+    "id": 134,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "135": {
+    "id": 135,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Better Business Writing?"
+  },
+  "136": {
+    "id": 136,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "137": {
+    "id": 137,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Mentoring Program"
+  },
+  "138": {
+    "id": 138,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "139": {
+    "id": 139,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Better Business Writing?"
+  },
+  "140": {
+    "id": 140,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "141": {
+    "id": 141,
+    "level": "Associate Director",
+    "bundle": 22,
+    "competency": "Communication",
+    "year": 2021,
+    "course": ""
+  },
+  "142": {
+    "id": 142,
+    "level": "Associate Director",
+    "bundle": 23,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Legal Primer?"
+  },
+  "143": {
+    "id": 143,
+    "level": "Associate Director",
+    "bundle": 23,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "144": {
+    "id": 144,
+    "level": "Associate Director",
+    "bundle": 23,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Legal Primer?"
+  },
+  "145": {
+    "id": 145,
+    "level": "Associate Director",
+    "bundle": 23,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "146": {
+    "id": 146,
+    "level": "Associate Director",
+    "bundle": 23,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Legal Primer?"
+  },
+  "147": {
+    "id": 147,
+    "level": "Associate Director",
+    "bundle": 23,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "148": {
+    "id": 148,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "149": {
+    "id": 149,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "150": {
+    "id": 150,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": ""
+  },
+  "151": {
+    "id": 151,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "Emotional Intelligence?"
+  },
+  "152": {
+    "id": 152,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "153": {
+    "id": 153,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "154": {
+    "id": 154,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Mentoring Program"
+  },
+  "155": {
+    "id": 155,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Emotional Intelligence?"
+  },
+  "156": {
+    "id": 156,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "157": {
+    "id": 157,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "158": {
+    "id": 158,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "159": {
+    "id": 159,
+    "level": "Associate Director",
+    "bundle": 24,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "Emotional Intelligence?"
+  },
+  "160": {
+    "id": 160,
+    "level": "Associate Director",
+    "bundle": 26,
+    "competency": "Customer Focus",
+    "year": 2019,
+    "course": ""
+  },
+  "161": {
+    "id": 161,
+    "level": "Associate Director",
+    "bundle": 26,
+    "competency": "Customer Focus",
+    "year": 2020,
+    "course": ""
+  },
+  "162": {
+    "id": 162,
+    "level": "Associate Director",
+    "bundle": 26,
+    "competency": "Customer Focus",
+    "year": 2021,
+    "course": ""
+  },
+  "163": {
+    "id": 163,
+    "level": "Associate Director",
+    "bundle": 27,
+    "competency": "Initiative",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "164": {
+    "id": 164,
+    "level": "Associate Director",
+    "bundle": 27,
+    "competency": "Initiative",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "165": {
+    "id": 165,
+    "level": "Associate Director",
+    "bundle": 27,
+    "competency": "Initiative",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "166": {
+    "id": 166,
+    "level": "Associate Director",
+    "bundle": 28,
+    "competency": "Business Insight",
+    "year": 2019,
+    "course": "Business Insights?"
+  },
+  "167": {
+    "id": 167,
+    "level": "Associate Director",
+    "bundle": 28,
+    "competency": "Business Insight",
+    "year": 2019,
+    "course": ""
+  },
+  "168": {
+    "id": 168,
+    "level": "Associate Director",
+    "bundle": 28,
+    "competency": "Business Insight",
+    "year": 2020,
+    "course": "Business Insights?"
+  },
+  "169": {
+    "id": 169,
+    "level": "Associate Director",
+    "bundle": 28,
+    "competency": "Business Insight",
+    "year": 2020,
+    "course": ""
+  },
+  "170": {
+    "id": 170,
+    "level": "Associate Director",
+    "bundle": 28,
+    "competency": "Business Insight",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "171": {
+    "id": 171,
+    "level": "Associate Director",
+    "bundle": 28,
+    "competency": "Business Insight",
+    "year": 2021,
+    "course": "Business Insights?"
+  },
+  "172": {
+    "id": 172,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "173": {
+    "id": 173,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Better Business Writing?"
+  },
+  "174": {
+    "id": 174,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "175": {
+    "id": 175,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2019,
+    "course": ""
+  },
+  "176": {
+    "id": 176,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "177": {
+    "id": 177,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Better Business Writing?"
+  },
+  "178": {
+    "id": 178,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "179": {
+    "id": 179,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2020,
+    "course": "Mentoring Program"
+  },
+  "180": {
+    "id": 180,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "181": {
+    "id": 181,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Better Business Writing?"
+  },
+  "182": {
+    "id": 182,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "183": {
+    "id": 183,
+    "level": "Director",
+    "bundle": 29,
+    "competency": "Communication",
+    "year": 2021,
+    "course": ""
+  },
+  "184": {
+    "id": 184,
+    "level": "Director",
+    "bundle": 30,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Legal Primer?"
+  },
+  "185": {
+    "id": 185,
+    "level": "Director",
+    "bundle": 30,
+    "competency": "Integrity",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "186": {
+    "id": 186,
+    "level": "Director",
+    "bundle": 30,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Legal Primer?"
+  },
+  "187": {
+    "id": 187,
+    "level": "Director",
+    "bundle": 30,
+    "competency": "Integrity",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "188": {
+    "id": 188,
+    "level": "Director",
+    "bundle": 30,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Legal Primer?"
+  },
+  "189": {
+    "id": 189,
+    "level": "Director",
+    "bundle": 30,
+    "competency": "Integrity",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "190": {
+    "id": 190,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "DISC"
+  },
+  "191": {
+    "id": 191,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "192": {
+    "id": 192,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2019,
+    "course": ""
+  },
+  "193": {
+    "id": 193,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "DISC"
+  },
+  "194": {
+    "id": 194,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "195": {
+    "id": 195,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2020,
+    "course": "Mentoring Program"
+  },
+  "196": {
+    "id": 196,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "DISC"
+  },
+  "197": {
+    "id": 197,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "198": {
+    "id": 198,
+    "level": "Director",
+    "bundle": 31,
+    "competency": "Builds Relationships",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "199": {
+    "id": 199,
+    "level": "Director",
+    "bundle": 32,
+    "competency": "Manages Outcomes",
+    "year": 2019,
+    "course": "Emotional Intelligence?"
+  },
+  "200": {
+    "id": 200,
+    "level": "Director",
+    "bundle": 32,
+    "competency": "Manages Outcomes",
+    "year": 2020,
+    "course": "Emotional Intelligence?"
+  },
+  "201": {
+    "id": 201,
+    "level": "Director",
+    "bundle": 32,
+    "competency": "Manages Outcomes",
+    "year": 2021,
+    "course": "Emotional Intelligence?"
+  },
+  "202": {
+    "id": 202,
+    "level": "Director",
+    "bundle": 33,
+    "competency": "Customer Focus",
+    "year": 2019,
+    "course": ""
+  },
+  "203": {
+    "id": 203,
+    "level": "Director",
+    "bundle": 33,
+    "competency": "Customer Focus",
+    "year": 2020,
+    "course": ""
+  },
+  "204": {
+    "id": 204,
+    "level": "Director",
+    "bundle": 33,
+    "competency": "Customer Focus",
+    "year": 2021,
+    "course": ""
+  },
+  "205": {
+    "id": 205,
+    "level": "Director",
+    "bundle": 34,
+    "competency": "Initiative",
+    "year": 2019,
+    "course": "Kirkland Leadership Conference"
+  },
+  "206": {
+    "id": 206,
+    "level": "Director",
+    "bundle": 34,
+    "competency": "Initiative",
+    "year": 2019,
+    "course": "Business Insights?"
+  },
+  "207": {
+    "id": 207,
+    "level": "Director",
+    "bundle": 34,
+    "competency": "Initiative",
+    "year": 2020,
+    "course": "Kirkland Leadership Conference"
+  },
+  "208": {
+    "id": 208,
+    "level": "Director",
+    "bundle": 34,
+    "competency": "Initiative",
+    "year": 2020,
+    "course": "Business Insights?"
+  },
+  "209": {
+    "id": 209,
+    "level": "Director",
+    "bundle": 34,
+    "competency": "Initiative",
+    "year": 2021,
+    "course": "Kirkland Leadership Conference"
+  },
+  "210": {
+    "id": 210,
+    "level": "Director",
+    "bundle": 34,
+    "competency": "Initiative",
+    "year": 2021,
+    "course": "STAR Program"
+  },
+  "211": {
+    "id": 211,
+    "level": "Director",
+    "bundle": 35,
+    "competency": "Business Insight",
+    "year": 2019,
+    "course": ""
+  },
+  "212": {
+    "id": 212,
+    "level": "Director",
+    "bundle": 35,
+    "competency": "Business Insight",
+    "year": 2020,
+    "course": "Business Insights?"
+  },
+  "213": {
+    "id": 213,
+    "level": "Director",
+    "bundle": 35,
+    "competency": "Business Insight",
+    "year": 2021,
+    "course": ""
+  }
+}
